@@ -1,0 +1,57 @@
+header {
+    background-color: blue;
+    color: white;
+}
+
+nav {
+    background-color: lightgray;
+}
+
+/* nav > span+span::before{
+    content: " ~ ";
+} */
+
+nav > span:not(:first-child):before{
+    content: " ~ ";
+}
+
+.master{
+    font-weight: bold;
+    color: blue;
+}
+
+span+em{
+    font-weight: bold;
+    color: red;
+}
+
+em{
+    color: green;
+    text-decoration: underline;
+}
+
+a[target='_blank']::before{
+    content: '➡️ ';
+}
+
+a[href^='http']::after{
+    content: ' ext.';
+}
+
+.italist li{
+    color: green;
+}
+.italist li:nth-child(3n-1){
+    color: white;
+}
+.italist li:nth-child(3n){
+    color: red;
+}
+
+#chess tr:nth-child(2n-1) td:nth-child(2n-1){
+    background-color: black !important;
+}
+
+#chess tr:nth-child(2n) td:nth-child(2n){
+    background-color: black !important;
+}
