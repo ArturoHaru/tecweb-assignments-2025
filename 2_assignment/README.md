@@ -11,4 +11,4 @@ These are my results, that may differ from yours. I do not claim to be correct a
 
 ---
 
-⬅️[Go to Previus Assignment](1/)
+⬅️[Go to Previus Assignment](../1_assignment/)
