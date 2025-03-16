@@ -3,7 +3,7 @@ An entire css based assignment.
 
 ➡️[Excercise 1](1/)
 
-➡️[Excercise 2](2/exercise2.md)
+➡️[Excercise 2](2/)
 
 ---
 ### Disclaimer
