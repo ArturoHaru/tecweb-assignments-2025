@@ -1,0 +1,22 @@
+body {
+    margin: 1em;
+    width: 800px !important;
+}
+
+img{
+    width: 100%;
+}
+
+main .container{
+    margin: 50px;
+}
+
+section {
+    float: left;
+    width: 65%;
+}
+
+aside {
+    float: right;
+    width: 30%;
+}
