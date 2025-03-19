@@ -1,0 +1,95 @@
+.t1 div div{
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.t1 div div div{
+    border-radius: 160px;
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.t1 div div div div{
+    border-radius: 120px;
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.t1 div div div div div{
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.t1 div div div div div div{
+    border-radius: 40px;
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+
+
+.t2 div+div{
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.t2 div+div+div{
+    border-radius: 160px;
+    width: 160px;
+    height: 160px;
+    background-color: white;
+    position: relative;
+    top: -180px;
+    left: 20px;
+}
+
+.t2 div+div+div+div{
+    border-radius: 120px;
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    position: relative;
+    top: -320px;
+    left: 40px;
+}
+
+.t2 div+div+div+div+div{
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    position: relative;
+    top: -420px;
+    left: 60px;
+}
+
+.t2 div+div+div+div+div+div{
+    border-radius: 40px;
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: relative;
+    top: -480px;
+    left: 80px;
+}

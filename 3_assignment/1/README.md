@@ -1,0 +1,1 @@
+![Image of the website](../img/screen.jpg)
