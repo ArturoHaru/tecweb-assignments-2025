@@ -1,5 +1,5 @@
 # Tecweb Assignment 3
-An css layout assignment
+A css layout based assignment
 
 ➡️[Excercise 1](1/)
 
@@ -23,4 +23,4 @@ These are my results, that may differ from yours. I do not claim to be correct a
 
 ---
 
-⬅️[Go to Previus Assignment](../2_assignment/)
+⬅️[Go to Previus Assignment](../2_assignment/) ~~~ [Go to Next Assignment](../4_assignment/)➡️
