@@ -1,5 +1,5 @@
-# Tecweb Assignment 4
-A javascript assignment
+# Tecweb Assignment 5
+A javascript assignment about inheritance and arrays
 
 ➡️[Excercise 1](1/)
 
@@ -7,12 +7,10 @@ A javascript assignment
 
 ➡️[Excercise 3](3/)
 
-➡️[Excercise 4](4/)
-
 ---
 ### Disclaimer
 These are my results, that may differ from yours. I do not claim to be correct and in fact feedbacks are welcome!
 
 ---
 
-⬅️[Go to Previus Assignment](../3_assignment/) ~~~ [Go to Next Assignment](../5_assignment/)➡️
+⬅️[Go to Previus Assignment](../4_assignment/)
