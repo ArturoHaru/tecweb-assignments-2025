@@ -1,0 +1,75 @@
+html{
+    margin: 0px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    height: 100vh;
+    margin: 0px;
+    position: relative;
+}
+
+
+h1{
+    color: firebrick;
+}
+
+main{
+    display: inherit;
+    flex-direction: inherit;
+    flex: 1;
+    align-items: inherit;
+    justify-content: inherit;
+    margin-bottom: 5%;
+}
+
+h1{
+    text-align: center;
+}
+
+header div{
+    
+    margin-bottom: 5%;
+
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: center;
+    
+}
+
+th{
+    color: firebrick;
+}
+
+a{
+    color: firebrick;
+}
+
+footer{
+    bottom: 0;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+    background-color: bisque;
+}
+
+#artwork_image {
+    height: 400px;
+    margin-bottom: 5%;
+}
+
+@media screen and (max-width: 600px) {
+    #artwork_image {
+        height: 400px;
+    }
+    main{
+        margin-bottom: 10%;
+    }
+}
