@@ -17,4 +17,4 @@ These are my results, that may differ from yours. I do not claim to be correct a
 
 ---
 
-⬅️[Go to Previus Assignment](../5_assignment/)
+⬅️[Go to Previus Assignment](../5_assignment/) ~~~ [Go to Next Assignment](../7_assignment/)➡️
